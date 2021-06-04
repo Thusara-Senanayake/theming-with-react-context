@@ -1,0 +1,14 @@
+.border-3 {
+  border-width: 4px !important;
+}
+.border-top-dashed {
+  border-top-width: 1px !important;
+  border-top-style: dashed !important;
+  margin-top: 150px !important;
+}
+
+@media (max-width: 576px) {
+  .border-sm-0 {
+    border: none !important;
+  }
+}
