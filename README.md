@@ -1,8 +1,8 @@
 # Theming With React-Context
 
-React Context API provides a way to pass data through the component tree without having to pass props down manually at every level. In this tiny project I have used context API to share theme data among components.
+[React Context API](https://reactjs.org/docs/context.html) provides a way to pass data through the component tree without having to pass props down manually at every level. In this tiny project I have used context API to share theme data among components.
 
-- [See demo](http://localhost)
+- [See demo](https://theming-with-react-context.herokuapp.com/)
 - [Read more](https://reactjs.org/docs/context.html)
 
 ## Available Scripts
